@@ -11,7 +11,9 @@ To pass this challenge, you need to demonstrate to the Judge the pathfinding alg
 
 Not familiar what A* and Dijkstra are? Well, you'd better figure it out.
 
-A [map](https://github.com/Coding-sauna-ry/Escape/blob/main/Escape-map.png) is ready for you. From the Start point, consider the nodes, implement A* & Dijkstra algorithms to reach the Destination. Explain them to the Judge.
+A [map](https://github.com/Coding-sauna-ry/Escape/blob/main/Escape-map.png) is ready for you. From the Start point, consider the vertices, implement A* & Dijkstra algorithms to determine what combination of vertices is the shortest way to reach the Destination.
+
+Then, explain the pathfinding algorithms to the Judge.
 
 ## 📚 To make your life a bit easier 📚
 You are free to use whatever resources to gain understanding. The below are just few ones i found:
